@@ -1,0 +1,7 @@
+The code here is being primarily adapated and extended from the work of Yu, M., Ruan, S., Gu, J. et al. Three-dimensional topology optimization of thermal-fluid-structural problems for cooling system design. Struct Multidisc Optim (2020):
+
+https://doi.org/10.1007/s00158-020-02731-z
+
+The repositories of the above work are found in the MTopOpt GitHub repositories (Levelset_AdaptiveMesh, MTO, and MTO_new) found at the following URL:
+
+https://github.com/MTopOpt
